@@ -51,3 +51,5 @@ and add this to the body
 
 Remember  not to choose  form-data in the postman body instead choose Raw and JSON
  
+
+Congratulations  You have successfully run the BVN verification app on your local machine 
